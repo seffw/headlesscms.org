@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: netlify/headlesscms.org # Path to your Github repository
+  repo: seffw/headlesscms.org # Path to your Github repository
   branch: master # Branch to update (master by default)
 
 media_folder: "img/uploads" # Folder where user uploaded files should go
@@ -27,4 +27,4 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string"}
       - {label: "URL", name: "url", widget: "string"}
       - {label: "Layout", name: "layout", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Content", name: "content", widget: "markdown"}
