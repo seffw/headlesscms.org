@@ -2,7 +2,15 @@
 title: About HeadlessCMS
 url: /about/
 layout: page
-content: This is some countent about HeadlessCMS
+content: >-
+  This is some countent about HeadlessCMS. THis is NEW content. This is
+  **BOLD!**
+
+
+  # This is a heading
+
+
+  Cool
 ---
 
 # About HeadlessCMS
