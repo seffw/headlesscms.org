@@ -7,7 +7,7 @@ supportedgenerators:
   - Hugo
 typeofcms: Git-based
 description: >-
-  The bridge between the simplicity of static websites and user-friendliness of
+  The bbbbbb between the simplicity of static websites and user-friendliness of
   CMS.
 ---
 
