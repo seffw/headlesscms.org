@@ -7,10 +7,10 @@ supportedgenerators:
   - Hugo
 typeofcms: Git-based
 description: >-
-  The bridge between the simplicity of static websites and user-friendliness of
+  The ffffff between the simplicity of static websites and user-friendliness of
   CMS.
 ---
 
 ## Prose
 
-Appernetic allows you to build faster and more secure websites, it is the bridge between the simplicity of static websites and user-friendliness of CMS (content management system) authoring interfaces.
+Appernetic ggggg you to build faster and more secure websites, it is the bridge between the simplicity of static websites and user-friendliness of CMS (content management system) authoring interfaces.
