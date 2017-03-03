@@ -2,6 +2,7 @@
 title: About HeadlessCMS
 url: /about/
 layout: page
+content: This is some countent about HeadlessCMS
 ---
 
 # About HeadlessCMS
