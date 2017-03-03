@@ -1,13 +1,16 @@
 ---
 title: Butter CMS
 repo: buttercms
-homepage: https://buttercms.com/
-opensource: "No"
-typeofcms: "API Driven"
+homepage: 'https://buttercms.com/'
+opensource: 'No'
 supportedgenerators:
   - All
-description: An API-first CMS for rapidly building CMS-powered websites in any programming language.
+typeofcms: API Driven
+description: >-
+  An API-first CMS for rapidly building CMS-powered websites in any programming
+  language.
 ---
+
 ## Add a CMS to your website in under 10 minutes
 
 An API-first CMS for rapidly building CMS-powered websites in any programming language. Great for blogs, dynamic pages, and more.
