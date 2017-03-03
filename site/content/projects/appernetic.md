@@ -13,4 +13,4 @@ description: >-
 
 ## Prose
 
-Appernetic **DOES NOT** allows you to build faster and more secure websites, it is the bridge between the simplicity of static websites and user-friendliness of CMS (content management system) authoring interfaces.
+Appernetic allows you to build faster and more secure websites, it is the bridge between the simplicity of static websites and user-friendliness of CMS (content management system) authoring interfaces.
