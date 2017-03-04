@@ -3,11 +3,12 @@ title: About HeadlessCMS
 url: /about/
 layout: page
 content: "This is some countent about HeadlessCMS. THis is NEW content. This is **BOLD!**\n\n# This is a heading\_\n\nCool"
+published: true
 ---
 
 # About HeadlessCMS
 
-HeadlessCMS.org is an overview of the top Content Management tools for JAMstack sites.
+HeadlessCMS.org is an ooooooverview of the top Content Management tools for JAMstack sites.
 
 'Headless CMS' is also commonly known as 'JAMstack CMS' or 'Decoupled CMS'.
 
@@ -79,4 +80,3 @@ For some API-driven CMS Like Contentful and Prismic, you can also just use the a
 Site generators or Static Site Generators are a must-use build tool for modern websites. They basically make it much easier to create, build and compile a moder website. They come and all shapes and sizes, and even though HTML, CSS and Javascript always comes out the other end, the language the site generators are written in varies.
 
 Each project might call for a different generator, so it’s important to know which site generators are supported by which Headless CMS.
-
