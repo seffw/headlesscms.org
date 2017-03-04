@@ -14,7 +14,9 @@ layout: page
 
 HeadlessCMS.org is aaaaaaaan ooooooverview of the top Content Management tools for JAMstack sites.
 
-'Headless CMS' is also commonly known as 'JAMstack CMS' or 'Decoupled CMS'.
+![TS-136163846_recycled-kitchen-cabinets_s4x3.jpg.rend.hgtvcom.966.725.jpeg](/uploads/TS-136163846_recycled-kitchen-cabinets_s4x3.jpg.rend.hgtvcom.966.725.jpeg)
+
+\'Headless CMS' is also commonly known as 'JAMstack CMS' or 'Decoupled CMS'.
 
 ## What is a Headless CMS
 
@@ -54,13 +56,17 @@ With a git-based CMS you are pushing changes to git that then triggers a new bui
 *Pros*
 
 * Full version control on all content out of the box.
+
 * All content lives as normal text files so developers can use all the normal tools they use as a developer.
+
 * Much easier to rollback.
+
 * Is the most homogenous approach with the existing git-based workflow of most web-developers.
 
 *Cons*
 
 * Not a good solution if you want several apps or sites to pull content from the same CMS.
+
 * If you have *tons* of content, you would in some cases want a database instead.
 
 **API-driven**
@@ -76,8 +82,8 @@ For some API-driven CMS Like Contentful and Prismic, you can also just use the a
 *Cons*
 
 * Not version controlled in Git.
-* Not as integrated in developer workflow as git-based CMS.
 
+* Not as integrated in developer workflow as git-based CMS.
 
 ### Site generators supported: All, or listed.
 
