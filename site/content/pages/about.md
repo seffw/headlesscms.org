@@ -1,18 +1,18 @@
 ---
 title: About HeadlessCMS
 url: "/about/"
-layout: page
 content: |-
   This is some countent about HeadlessCMS. THis is NEW content. This is **BOLD!**
 
   # This is a heading 
 
   Cool
+layout: page
 ---
 
 # About HeadlessCMS
 
-HeadlessCMS.org is an ooooooverview of the top Content Management tools for JAMstack sites.
+HeadlessCMS.org is aaaaaaaan ooooooverview of the top Content Management tools for JAMstack sites.
 
 'Headless CMS' is also commonly known as 'JAMstack CMS' or 'Decoupled CMS'.
 
