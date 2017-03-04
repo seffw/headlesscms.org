@@ -1,6 +1,6 @@
 ---
 title: The Rules
-url: /rules/
+url: "/rules/"
 layout: page
 ---
 

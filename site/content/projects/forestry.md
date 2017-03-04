@@ -2,13 +2,14 @@
 title: Forestry
 repo: forestryio
 homepage: https://forestry.io
-opensource: "No"
-typeofcms: "Git-based"
+opensource: 'No'
+typeofcms: Git-based
 supportedgenerators:
-  - Jekyll
-  - Hugo
+- Jekyll
+- Hugo
 description: Build a custom CMS for Jekyll and Hugo.
 ---
+
 ## Forestry
 Build a custom CMS for Jekyll and Hugo.
 

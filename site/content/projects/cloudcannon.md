@@ -2,12 +2,14 @@
 title: CloudCannon
 repo: CloudCannon
 homepage: http://cloudcannon.com
-opensource: "No"
-typeofcms: "Git-based"
+opensource: 'No'
+typeofcms: Git-based
 supportedgenerators:
-  - Jekyll
-description: The Cloud CMS for Jekyll - build Jekyll or static websites, make updates inline.
+- Jekyll
+description: The Cloud CMS for Jekyll - build Jekyll or static websites, make updates
+  inline.
 ---
+
 ## Cloud Cannon
 The Cloud CMS for Jekyll - build Jekyll or static websites, have your team and clients update inline.
 

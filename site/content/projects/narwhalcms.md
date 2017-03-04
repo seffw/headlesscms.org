@@ -2,15 +2,17 @@
 title: Narwhal CMS
 repo: codelab42
 homepage: http://www.narwhalcms.com/
-opensource: "No"
-typeofcms: "API Driven"
+opensource: 'No'
+typeofcms: API Driven
 supportedgenerators:
-  - Angular
-  - Backbone
-  - Ember
-  - React
-description: A hosted content management system that exposes your content via a self-documenting API.
+- Angular
+- Backbone
+- Ember
+- React
+description: A hosted content management system that exposes your content via a self-documenting
+  API.
 ---
+
 ## Narwhal CMS
 The ultimate CMS for front-end developers - Narwhal is a hosted content management system that exposes your content via a self-documenting API.
 

@@ -1,14 +1,13 @@
 ---
 title: Appernetic
 repo: appernetic
-homepage: 'https://appernetic.io'
+homepage: https://appernetic.io
 opensource: 'Yes'
 supportedgenerators:
-  - Hugo
+- Hugo
 typeofcms: Git-based
-description: >-
-  The bbbbbb between the simplicity of static websites and user-friendliness of
-  CMS.
+description: The bbbbbb between the simplicity of static websites and user-friendliness
+  of CMS.
 ---
 
 ## Prose

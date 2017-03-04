@@ -1,13 +1,12 @@
 ---
 title: Butter CMS
 repo: buttercms
-homepage: 'https://buttercms.com/'
+homepage: https://buttercms.com/
 opensource: 'No'
 supportedgenerators:
-  - All
+- All
 typeofcms: API Driven
-description: >-
-  An API-first CMS for rapidly building CMS-powered websites in any programming
+description: An API-first CMS for rapidly building CMS-powered websites in any programming
   language.
 ---
 

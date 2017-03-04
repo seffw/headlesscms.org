@@ -2,12 +2,13 @@
 title: Hyde
 repo: meethyde/meethyde
 homepage: http://meethyde.com
-opensource: "Yes"
-typeofcms: "Generator Specific"
+opensource: 'Yes'
+typeofcms: Generator Specific
 supportedgenerators:
-  - Jekyll
+- Jekyll
 description: Use Hyde to manage posts, pages, and images in your repository.
 ---
+
 ## Meet Hyde
 Hyde provides a simple-to-use web interface to manage content in Jekyll-powered GitHub Pages.
 

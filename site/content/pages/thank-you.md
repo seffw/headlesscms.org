@@ -1,6 +1,6 @@
 ---
 title: Thank You
-url: '/thank-you/'
+url: "/thank-you/"
 layout: page
 ---
 

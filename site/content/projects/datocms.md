@@ -2,17 +2,18 @@
 title: DatoCMS
 repo: datocms
 homepage: https://www.datocms.com/
-opensource: "No"
-typeofcms: "API Driven"
+opensource: 'No'
+typeofcms: API Driven
 supportedgenerators:
-  - Middleman
-  - Jekyll
-  - Hugo
-  - Metalsmith
-  - GatsbyJS
-  - Phenomic
+- Middleman
+- Jekyll
+- Hugo
+- Metalsmith
+- GatsbyJS
+- Phenomic
 description: A fully customizable administrative area for your static websites.
 ---
+
 ## DatoCMS
 DatoCMS is a fully customizable administrative area for your static websites. Use your favorite website generator, let your clients publish new content independently, host the site anywhere you like.
 

@@ -2,12 +2,14 @@
 title: Built.io
 repo: builtio-contentstack
 homepage: https://www.built.io/products/contentstack/overview
-opensource: "No"
-typeofcms: "API Driven"
+opensource: 'No'
+typeofcms: API Driven
 supportedgenerators:
-  - All
-description: Fulfils enterprise requirements without the feature bloat like with traditional CMS's.
+- All
+description: Fulfils enterprise requirements without the feature bloat like with traditional
+  CMS's.
 ---
+
 ## Built.io Contentstack
 
 ### Unifying CMS for Mobile, Web, IoT

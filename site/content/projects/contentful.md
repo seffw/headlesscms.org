@@ -2,16 +2,18 @@
 title: Contentful
 repo: contentful
 homepage: https://www.contentful.com/
-opensource: "No"
-typeofcms: "API Driven"
+opensource: 'No'
+typeofcms: API Driven
 supportedgenerators:
-  - Middleman
-  - Jekyll
-  - Metalsmith
-  - Roots
-  - AWS Lambda
-description: Contentful is a content management developer platform with an API at its core.
+- Middleman
+- Jekyll
+- Metalsmith
+- Roots
+- AWS Lambda
+description: Contentful is a content management developer platform with an API at
+  its core.
 ---
+
 ## Contentful
 
 Contentful is a content management developer platform with an API at its core.

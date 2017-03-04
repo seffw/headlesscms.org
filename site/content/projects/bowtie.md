@@ -2,12 +2,13 @@
 title: BowTie
 repo: bowtie-io
 homepage: https://bowtie.io/
-opensource: "No"
-typeofcms: "Git-based"
+opensource: 'No'
+typeofcms: Git-based
 supportedgenerators:
-  - Jekyll
+- Jekyll
 description: Build fast and lean websites for your clients that don't skimp on features.
 ---
+
 ## BowTie
 BowTie professional site builder. Build fast and lean websites for your clients that don't skimp on features.
 

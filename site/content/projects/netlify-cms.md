@@ -2,13 +2,14 @@
 title: Netlify CMS
 repo: netlify/netlify-cms
 homepage: https://github.com/netlify/netlify-cms
-opensource: "Yes"
-typeofcms: "Git-based"
+opensource: 'Yes'
+typeofcms: Git-based
 supportedgenerators:
-  - All
+- All
 description: A CMS for static site generators - seamless integration with Netlify.
 startertemplaterepo: bdougie/casper-cms-template
 ---
+
 ## Netlify CMS
 
 A CMS for static site generators. Give non-technical users a simple way to edit and add content to any site built with a static site generator.

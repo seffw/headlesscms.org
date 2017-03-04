@@ -1,10 +1,10 @@
 ---
 title: Siteleaf
 repo: siteleaf
-homepage: 'https://www.siteleaf.com/'
+homepage: https://www.siteleaf.com/
 opensource: 'No'
 supportedgenerators:
-  - Jekyll
+- Jekyll
 typeofcms: Git-based
 description: Siteleaf is a content management system designed for a better web.
 ---

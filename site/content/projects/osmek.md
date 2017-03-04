@@ -1,12 +1,13 @@
 ---
 title: Osmek
 homepage: http://osmek.com/
-opensource: "No"
-typeofcms: "API Driven"
+opensource: 'No'
+typeofcms: API Driven
 supportedgenerators:
-  - All
+- All
 description: Say goodbye to CMS, and say hello to Osmek, the original Content API.
 ---
+
 ## Osmek isn't just a CMS, it's a Content API.
 
 It's time to rethink what you know about content management. Osmek takes the framework out of CMS, and that changes everything.
